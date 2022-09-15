@@ -7,7 +7,7 @@ python3.10 -m pip install --user virtualenv
 python3.10 -m pip install jupyter
 
 # go to workdir/repository
-cd $HOME/SQL_Learning
+cd $HOME/Repositories/SQL_Learning
 
 # Create and Run isolate virtual environment 
 python3.10 -m venv env
